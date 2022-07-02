@@ -42,4 +42,4 @@ O bot requer que as variáveis ​​de ambiente sejam definidas antes de inicia
 
 1. Defina todas as variáveis ​​de ambiente acima em um arquivo `.env` na raiz do projeto.
 2. Crie um arquivo `lavalink.yml` contendo uma [configuração do Lavalink] válida (https://github.com/freyacodes/Lavalink/blob/master/LavalinkServer/application.yml.example). Certifique-se de que a porta e a senha correspondam à variável de ambiente associada.
-3. Execute `docker-compose up` para executar o bot. Se você quiser executar o bot com métricas, adicione a opção `-f docker-compose.prod.yaml`.
+3. Execute `docker-compose up` para executar o bot.
