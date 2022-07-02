@@ -2,6 +2,8 @@
 
 Simples bot de discord que toca musicas do youtube, spotify e soundcloud feito em dart.
 
+![rondonBot](github/rondonBot.PNG)
+
 <hr />
 
 ## Nyxx packages
