@@ -15,7 +15,7 @@ Pacotes usados para a construção do bot
 ## Como criar um bot
 
  - Crie seu bot em [discord-applications](https://discord.com/developers/applications)
- - Para configurar e adicionar o seu bot no servidor só seguir a documentação do discord [doc](https://discord.com/developers/docs/getting-started#configuring-a-bot)
+ - Para configurar e adicionar o seu bot no servidor só seguir a documentação do próprio discord [doc](https://discord.com/developers/docs/getting-started#configuring-a-bot)
 
 
 ## Configuração
